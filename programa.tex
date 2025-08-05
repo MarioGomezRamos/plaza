@@ -1,0 +1,668 @@
+\documentclass[a4paper,12pt,twoside]{article}
+\usepackage[latin1,utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[usenames]{color}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{setspace}
+\usepackage{booktabs}
+\usepackage{pifont}
+\usepackage{hyperref}
+\usepackage[spanish]{babelbib}
+\usepackage[nottoc,numbib]{tocbibind}
+\usepackage{enumitem}
+\usepackage{eurosym}
+\usepackage{epsfig}
+\usepackage[a4paper,bindingoffset=0.cm,%
+            left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm,]{geometry}
+%\documentstyle[12pt]{article}
+%\setlength{\textheight}{27.2cm}
+%\setlength{\textwidth}{18.5cm}
+%\setlength{\oddsidemargin}{2.5cm}
+%\setlength{\evensidemargin}{2.5cm}
+%\setlength{\topmargin}{2.5cm}
+
+%\setlength{\parindent}{0pt}
+%\addtolength{\topmargin}{-1.5cm}
+%\addtolength{\oddsidemargin}{-1.8cm}
+%\addtolength{\evensidemargin}{-1.cm}
+
+%%%%%%% espacio entre lineas %%%%%%%%
+%\renewcommand{\baselinestretch}{1.25}
+%%%%%%%%punto decimal%%%%%%%%%%%%%%%%
+
+
+%\def\ket#1{|#1\rangle}
+%\def\bra#1{\langle#1|}
+%\def\scal#1#2{\langle#1|#2\rangle}
+%\def\matr#1#2#3{\langle#1|#2|#3\rangle}
+%\def\bino#1#2{\left(\begin{array}{c}#1\\#2\end{array}\right)}
+%\def\ave#1{\langle #1\rangle}
+%\def\dis#1{\langle\langle #1\rangle\rangle}
+%\def\uvo#1{\lq #1\rq\ }
+%\def\uuvo#1{\lq\lq #1\rq\rq\ }
+%\def\ave#1{\langle#1\rangle}
+%\newcommand{\field}[1]{\mathbb{#1}}
+%\newcommand{\ra}{\rangle}
+%\newcommand{\la}{\langle}
+%\newcommand{\rp}{\right)}
+%\newcommand{\lp}{\left(}
+%\newcommand{\rc}{\right]}
+%\newcommand{\lc}{\left[}
+%\newcommand{\arctanh}{\mbox{arctanh\hspace{0.05cm}}}
+%\newcommand{\obeta}{\overline{\beta}}
+%\newcommand{\onu}{\overline{\nu}}
+
+%\usepackage{titlesec}
+
+
+%\titleformat{\chapter}[hang]{\bf\huge}{\thechapter}{2pc}{}
+
+\usepackage{fancyhdr}
+ 
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[RE,LO]{\underline{\nouppercase{\rightmark}}}
+\fancyhead[LE,RO]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+%\rfoot{Page }
+ 
+%\onehalfspacing
+\spacing{1.5}
+
+\addto\captionsspanish{\renewcommand{\tablename}{Tabla}}
+
+\begin{document}
+
+%\renewcommand{\refname}{Bibliografía}
+
+\title{\textbf{Programa de la asignatura F\'isica Nuclear y de Part\'iculas} \\ (Grado en F\'isica, Doble Grado en F\'isica y Matem\'aticas, Doble Grado en F\'isica e Ingenier\'ia de Materiales)}
+\author{Mario G\'omez Ramos}
+\maketitle
+%\begin{figure}
+%\centering
+%\includegraphics[height=3cm]{us.pdf}
+%\end{figure}
+
+\thispagestyle{empty}
+\newpage
+\thispagestyle{empty}  
+
+~ \\
+
+
+\newpage
+
+\section*{Preámbulo}
+
+El presente documento sigue las indicaciones del BOJA Número 88 de 12 de mayo de 2025. Se establece la presentación del programa de, al menos, una de las asignaturas de formación básica incluidas en el perfil docente de la plaza. El programa ha de contener: 
+\begin{itemize}
+\item Temario detallado.
+
+\item Reseña metodológica y bibliográfica.
+
+\item Sistema y criterios de evaluación y calificación.
+\end{itemize}
+Se debe respetar la extensión máxima de 30 páginas en A4 con letra de 12 puntos de cuerpo, con espaciado interlineal de 1.5 y márgenes de 2.5 cm.
+
+El perfil docente de la plaza PPL-003-25 incluye la asignatura de Física Nuclear y de Part\'iculas, asignatura obligatoria en el Grado en F\'isica, Doble Grado en F\'isica y Matem\'aticas y Doble Grado en F\'isica e Ingenier\'ia de Materiales. Se presenta por tanto el programa correspondiente a esta asignatura.
+\vfill
+
+
+Mario G\'omez Ramos
+
+En Sevilla, a \today.
+
+~ \\
+
+~ \\
+
+~ \\
+
+
+\newpage
+
+~ \\
+%
+%
+\newpage
+
+\tableofcontents
+\newpage
+
+~ \\
+
+
+
+
+\section{Contexto dentro de la titulación}
+\label{intro}
+
+La asignatura de F\'isica Nuclear y de Part\'iculas se imparte en la Facultad de F\'isica de la Universidad de Sevilla. Se trata de una asignatura obligatoria de 6 cr\'editos ECTS que se imparte en los siguientes grados:
+\begin{itemize}
+\item Grado en F\'isica. (4º curso)
+\item Doble Grado en Física y Matemáticas. (5º curso)
+\item Doble Grado en Física e Ingeniería de Materiales. (4º curso)
+\end{itemize}
+No existe segregación respecto a las titulaciones, esto es, en los diferentes grupos de la asignatura pueden convivir alumnos de las diferentes titulaciones. Este programa se centra en el Grado en Física, ya que el temario y capacidades adquiridas en esta asignatura son idénticos en todas las titulaciones, si bien el distinto desarrollo académico de los alumnos en estas (en particular, el hecho de que los alumnos del Doble Grado en Física y Matématicas cursen la asignatura en su quinto curso en lugar del cuarto) introduce una cierta varianza en los conocimientos y capacidades de los alumnos, que debe ser tenida en cuenta en el desarrollo de la actividad docente.
+
+De acuerdo con su memoria de verificación, el Grado en Física consta de 240 créditos ECTS repartidos en 60 de Formación Básica, 144 de carácter Obligatorio, 30 Optativos y 6 de Trabajo Fin de Grado. La distribución de asignaturas en la titulación se establece en los siguientes 19 módulos, que se indican con su número de créditos ECTS y los cursos en los que se imparten:
+\begin{itemize}
+\item Fundamentos de Física (Básico -- 18 ECTS -- 1º)
+\item Análisis Matemático (Básico -- 12 ECTS -- 1º)
+\item Álgebra lineal y Geometría (Básico -- 12 ECTS -- 1º)
+\item Transversal (Básico -- 18 ECTS -- 1º)
+\item Métodos Matemáticos  (Obligatorio -- 18 ECTS -- 2º)
+\item Mecánica y Ondas (Obligatorio -- 12 ECTS -- 2º)
+\item Termodinámica y Física Estadística (Obligatorio -- 18 ECTS -- 2º,3º)
+\item Electromagnetismo (Obligatorio -- 18 ECTS -- 2º)
+\item Óptica (Obligatorio -- 12 ECTS -- 3º)
+\item Fundamentos Cuánticos (Obligatorio -- 18 ECTS -- 3º,4º)
+\item Estructura de la Materia (Obligatorio -- 18 ECTS -- 3º,4º)
+\item Trabajo Fin de Grado (Obligatorio -- 6 ECTS -- 4º)
+\item Ampliación de Física (Obligatorio -- 18 ECTS -- 3º)
+\item Experimental (Obligatorio -- 12 ECTS -- 4º)
+\item Itinerario en Física de la Materia Condensada (Optativo -- 18 ECTS -- 4º)
+\item Itinerario en Electrónica y Electromagnetismo (Optativo -- 18 ECTS -- 4º)
+\item Itinerario en Física Atómica, Molecular y Nuclear (Optativo -- 18 ECTS -- 4º)
+\item Complementos de Física (Optativo -- 30 ECTS -- 4º)
+\item Prácticas Externas (Optativo -- 6 ECTS -- 4º)
+\end{itemize} 
+ 
+Los 12 primeros módulos son comunes con las Universidades de Córdoba y Granada, mientras que los siguientes son propios de la Universidad de Sevilla. La asignatura de Física Nuclear y de Partículas pertenece al módulo \textit{Estructura de la Materia}, compuesto por las siguientes asignaturas:
+
+\begin{itemize}
+\item \underline{Estructura de la Materia}
+\begin{itemize}
+\item Física del Estado Sólido -- 6 ECTS -- 3º
+\item Electrónica Física -- 6 ECTS -- 3º
+\item Física Nuclear y de Partículas -- 4º
+\end{itemize}
+\end{itemize}
+
+\section{Temario detallado \label{sec:temario}}
+
+A continuación, se presentan de forma detallada las lecciones en las que se divide el temario de la asignatura de Física Nuclear y de Partículas. La asignatura comprende 6 créditos ECTS, que se corresponden con 60 horas presenciales, junto a 90 horas de trabajo personal por parte del alumno. De las horas presenciales 35 se destinan a lecciones teóricas y el resto a clases prácticas (resolución de problemas), que típicamente se imparten tras la finalización de las clases teóricas asociadas a cada uno de los temas (excepto en el tema de introducción, en el que se estima que no son necesarias clases prácticas) y a resolución de cuestiones y dudas por parte del alumnado. El temario presentado a continuación se corresponde a las clases teóricas, que se desglosan en lecciones de 1 hora y se agrupan en temas. La asignatura de Física Nuclear y de Partículas presenta dos bloques bien diferenciados: Física Nuclear y Física de Partículas, a cada uno de los cuales corresponde la mitad del tiempo de la asignatura: 7 semanas y media cada uno. Los temas se presentan separados en estos dos bloques.
+
+\subsection*{\underline{Física Nuclear}}
+
+\subsubsection*{Tema 1: Introducción a la Física Nuclear}
+
+\begin{itemize}
+\item Lección 1.1: Introducción
+\begin{itemize}
+\item Orígenes y paradigma de la Física Nuclear
+\item Escalas físicas y definiciones básicas
+\item Diagrama de Segrè: Paisaje nuclear
+\end{itemize}
+\end{itemize}
+
+\subsubsection*{Tema 2: Masas nucleares}
+\begin{itemize}
+\item Lección 2.1: Fenomenología de las masas atómicas
+\begin{itemize}
+\item Masas y energías de ligadura
+\item Energías de separación y de apareamiento
+\item Energía liberada en reacciones nucleares
+\end{itemize}
+\item Lección 2.2: Fórmula semiempírica de masas
+\begin{itemize}
+\item Términos de la fórmula semiempírica de masas: significado físico
+\item Valle de beta-estabilidad, evolución de la energía de ligadura
+\end{itemize}
+\item Lección 2.3: Límites de formación nuclear
+\begin{itemize}
+\item Lineas de evaporación de neutrones y protones
+\item Línea de fisión espontánea
+\end{itemize}
+\end{itemize}
+
+\subsubsection*{Tema 3: Estabilidad nuclear}
+\begin{itemize}
+\item Lección 3.1: Decaimiento alfa
+\begin{itemize}
+\item Fenomenología y cinemática del decaimiento alfa
+\item Ley de Geiger-Nuttal
+\end{itemize}
+\item Lección 3.2: Decaimiento por fisión y beta (I):
+\begin{itemize}
+\item Decaimiento por fisión: descripción física
+\item Decaimiento beta +, beta - y captura electrónica
+\end{itemize}
+\item Lección 3.3: Decaimiento beta (II)
+\begin{itemize}
+\item Energía liberada
+\item Probabilidad de decaimiento: decaimiento beta y captura electrónica
+\end{itemize}
+\end{itemize}
+
+\subsubsection*{Tema 4: Tamaños nucleares}
+\begin{itemize}
+\item Lección 4.1: Medida del tamaño nuclear
+\begin{itemize}
+\item Medida a partir de la fórmula semiempírica de masas
+\item Medida a partir de espectros atómicos: Corrimiento isotópico
+\item Características generales de la distribución de carga nuclear
+\end{itemize}
+\item Lección 4.2: Reacciones de dispersión elástica de electrones
+\begin{itemize}
+\item Descripción de reacciones de dispersión elástica: sección eficaz experimental
+\item Teoría de sección eficaz elástica. Factores de forma
+\end{itemize}
+\item Lección 4.3: Densidad de carga nuclear
+\begin{itemize}
+\item Sensibilidad de los factores de forma a la densidad de carga
+\item Factores de forma y densidades de carga experimentales
+\item Densidad de carga del protón y el neutrón
+\end{itemize}
+\end{itemize}
+
+\subsubsection*{Tema 5: Modelo de capas}
+\begin{itemize}
+\item Lección 5.1: Introducción al modelo de capas
+\begin{itemize}
+\item Evidencia experimental del modelo de capas: números mágicos
+\item Fundamentos teóricos del modelo
+\end{itemize}
+\item Lección 5.2: Modelo de partículas independientes
+\begin{itemize}
+\item Modelo de capas: Oscilador armónico y potenciales centrales
+\item Espín-órbita y desdoblamiento de capas
+\end{itemize}
+\item Lección 5.3: Aplicaciones del modelo de capas
+\begin{itemize}
+\item Espín, paridad y degeneración en el modelo de capas
+\item Energías de separación y energías de excitación en el modelo de capas
+\item Límites del modelo de capas: Interacción residual
+\end{itemize}
+\end{itemize}
+
+\subsubsection*{Tema 6: Decaimiento gamma}
+\begin{itemize}
+\item Lección 6.1: Introducción al decaimiento gamma
+\begin{itemize}
+\item Cinemática del decaimiento gamma
+\item Introducción al hamiltoniano electromagnético
+\item Aproximación dipolar del decaimiento gamma
+\end{itemize}
+\item Lección 6.2: Reglas de selección y unidades Weisskopf
+\begin{itemize}
+\item Extensión a multipolos superiores
+\item Reglas de selección
+\item Unidades Weisskopf
+\end{itemize}
+\end{itemize}
+
+\subsubsection*{Tema 7: El deuterón}
+\begin{itemize}
+\item Lección 7.1: El deuterón
+\begin{itemize}
+\item Deuterón: Propiedades y números cuánticos
+\item Interacción nucleón-nucleón
+\end{itemize}
+\end{itemize}
+
+\subsection*{\underline{Física de Partículas}}
+
+\subsubsection*{Tema 8: Introducción a la física de partículas}
+\begin{itemize}
+\item Lección 8.1: Introducción
+\begin{itemize}
+\item Partículas elementales
+\item Introducción a la mecánica cuántica relativista
+\item Interacciones fundamentales
+\end{itemize}
+\end{itemize}
+
+\subsubsection*{Tema 9: Decaimiento y colisiones de partículas subatómicas}
+\begin{itemize}
+\item Lección 9.1: Fundamentos del decaimiento de las partículas
+\begin{itemize}
+\item Regla de oro de Fermi
+\item Densidad de estados para decaimiento binario: Regímenes no relativista, relativista y ultrarrelativista
+\end{itemize}
+\item Lección 9.2: Decaimiento débil
+\begin{itemize}
+\item Densidad de estados para decaimiento en tres partículas
+\item Teoría de Fermi del decaimiento débil
+\end{itemize}
+\item Lección 9.3: Secciones eficaces e interacciones fundamentales
+\begin{itemize}
+\item Secciones eficaces
+\item Valores típicos para interacción fuerte, electromagnética y débil
+\end{itemize}
+\end{itemize}
+
+\subsubsection*{Tema 10: Propiedades de las partículas subatómicas}
+\begin{itemize}
+\item Lección 10.1: Teoría de Yukawa y clasificación
+\begin{itemize}
+\item Teoría de Yukawa
+\item Leptones
+\item Hadrones
+\end{itemize}
+\item Lección 10.2: Extrañeza
+\begin{itemize}
+\item Extrañeza: Evidencias experimentales
+\item Conservación de la extrañeza, kaones
+\end{itemize}
+\item Lección 10.3: Conservación de números cuánticos y resonancias
+\begin{itemize}
+\item Conservación de números cuánticos
+\item Partículas y resonancias
+\end{itemize}
+\item Lección 10.4: Isospín
+\begin{itemize}
+\item Isospín: definición y acoplamiento
+\item Conservación de isospín
+\item Relación entre secciones eficaces
+\end{itemize}
+\end{itemize}
+
+\subsubsection*{Tema 11: Simetrías discretas}
+\begin{itemize}
+\item Lección 11.1: Introducción a las simetrías discretas
+\begin{itemize}
+\item Simetrías continuas y discretas
+\item Enunciado del teorema de Noether
+\item Simetrías P, C y T: definición
+\end{itemize}
+\item Lección 11.2: Simetrías P y C
+\begin{itemize}
+\item Simetría P aplicada a un sistema de partículas
+\item Simetría C aplicada a un sistema de partículas
+\item Violación de paridad, experimento de Wu
+\end{itemize}
+\end{itemize}
+
+\subsubsection*{Tema 12: Un paradigma de transición}
+\begin{itemize}
+\item Lección 12.1: Introducción (somera) a la teoría cuántica de campos
+\begin{itemize}
+\item Notación covariante y contravariante
+\item Ecuación de Dirac
+\item Campos fermiónicos y bosónicos
+\end{itemize}
+\item Lección 12.2: Lagrangianos de interacción
+\begin{itemize}
+\item Lagrangiano cuántico
+\item Lagrangiano fuerte mesónico
+\item Lagrangiano electromagnético
+\item Lagrangiano débil
+\end{itemize}
+\item Lección 12.3: Diagramas de Feynman (I)
+\begin{itemize}
+\item Construcción de los diagramas de Feynman
+\item Diagrama de Feynman para interacción fuerte
+\end{itemize}
+\item Lección 12.4: Diagramas de Feynman (II)
+\begin{itemize}
+\item Diagrama de Feynman para interacción electromagnética
+\item Diagrama de Feynman para interacción débil
+\end{itemize}
+\end{itemize}
+
+\subsubsection*{Tema 13: Modelo de quarks}
+\begin{itemize}
+\item Lección 13.1: Modelo de quarks dentro del grupo SU(3)
+\begin{itemize}
+\item Evidencias experimentales: Octete y decuplete
+\item Introducción a teoría de grupos: Grupo SU(3)
+\end{itemize}
+\item Lección 13.2: Descripción de los hadrones en la teoría de quarks
+\begin{itemize}
+\item Mesones pseudoescalares y vectoriales
+\item Hadrones: octete y decuplete
+\item Función de onda hadrónica: color de los quarks
+\end{itemize}
+\item Lección 13.3: Propiedades de las partículas en el modelo de quarks y quarks pesados
+\begin{itemize}
+\item Masa hadrónica y mesónica en el modelo de quarks
+\item Momento magnético en el modelo de quarks
+\item Quarks pesados: c,b,t
+\end{itemize}
+\item Lección 13.4: Diagramas de Feynman en el modelo de quarks
+\begin{itemize}
+\item Diagramas de Feynman para interacción electromagnética
+\item Diagramas de Feynman para interacción débil: ángulo de Cabibbo
+\item Diagramas de Feynman para interacción fuerte: limitaciones del modelo perturbativo
+\end{itemize}
+\end{itemize}
+
+\subsubsection*{Tema 14: Modelo estándar}
+\begin{itemize}
+\item Lección 14.1: Introducción al modelo estándar
+\begin{itemize}
+\item Teorías gauge locales
+\item Introducción a la cromodinámica cuántica
+\item Introducción a la teoría electrodébil
+\item Bosón de Higgs
+\end{itemize}
+\end{itemize}
+
+\section{Reseña metodológica}
+
+\subsection{Especificaciones del Plan de Estudios}
+
+El Plan de Estudios de la Facultad de Física  de la Universidad de Sevilla preve que las asignaturas del módulo Estructura de la Materia, en la que se incluye la asignatura de Física Nuclear y de Partículas, presenten las siguientes actividades formativas presenciales
+
+\begin{itemize}
+\item Sesiones teóricas y seminarios
+\item Sesiones de problemas, tutorías y actividades dirigidas.
+\end{itemize}
+
+Ambas se han considerado en la sección previa. Las competencias que deben adquirir los alumnos en este módulo son las siguientes:
+
+\begin{itemize}
+\item Transversales o genéricas
+\begin{itemize}
+\item Capacidad de análisis y síntesis
+\item Capacidad de organización y planificación
+\item Comunicación oral y/o escrita
+\item Capacidad de gestión de la información
+\item Resolución de problemas
+\item Razonamiento crítico
+\item Aprendizaje autónomo
+\item Creatividad
+\item Sensibilidad hacia temas medio-ambientales
+\end{itemize}
+\item Específicas
+\begin{itemize}
+\item Conocimiento y comprensión de los fenómenos y de las teorías físicas más importantes
+\item Capacidad de estimar órdenes de magnitud para interpretar fenómenos diversos
+\item Capacidad de profundizar en la aplicación de los conocimientos matemáticos en el contexto general de la física
+\item Capacidad de medida, interpretación y diseño de experiencias en el laboratorio o en el entorno
+\item Capacidad de modelado de fenómenos complejos, trasladando un problema físico al lenguaje matemático
+\item Capacidad de transmitir conocimientos de forma clara tanto en ámbitos docentes como no docentes
+\end{itemize}
+\end{itemize}
+
+Los resultados del aprendizaje esperados en en la asignatura de Física Nuclear y de Partículas son los siguientes:
+\begin{itemize}
+\item Conocer los constituyentes últimos de la materia, sus interacciones y los elementos básicos de los modelos
+desarrollados para su estudio y saber el orden de las magnitudes físicas involucradas en los procesos entre partículas
+elementales. 
+\item Conocer la fenomenología básica nuclear y entender y manejar algunos modelos sencillos desarrollados para su
+descripción.
+\item  Conocer la propiedades más importantes de los principales procesos de desintegración nuclear
+\item Conocer los principios, técnicas e instrumentos de medida en el estudio teórico y/o experimental de la estructura de la
+materia. 
+\end{itemize}
+
+\subsection{Propuesta}
+
+La asignatura de Física Nuclear y de Partículas se imparte durante el segundo cuatrimestre del 4º curso del Grado en Física en la Universidad de Sevilla, que consta de 15 semanas lectivas, por lo que la impartición de las 60 horas correspondientes a esta asignatura requiere 4 horas semanales, que tradicionalmente se distribuyen una hora al día de lunes a jueves. por lo tanto se presenta el esquema para la asignatura suponiendo esta distribución de horas, denotando las clases de teoría con T, las de problemas con P y clases reservadas para evaluaci\'on continua como E:
+
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+Semana & L & M & X & J \\
+\hline\hline
+1& T &T&T&T\\
+\hline
+2& P &P&P&T\\
+\hline
+3& T &T&P&P\\
+\hline
+4&P& T &T&T\\
+\hline 5&P&P&T&T\\
+\hline 6&T&P&P&P\\
+\hline 7&T&T&P&T\\
+\hline 8&E&E&T&P\\
+\hline 9&T&T&T&P\\
+\hline 10&P&T&T&T\\
+\hline 11&T&P&P&T\\
+\hline 12&T&P&T&T\\
+\hline 13&T&T&P&P\\
+\hline 14&T&T&T&T\\
+\hline 15&P&T&E&E\\
+\hline \end{tabular}
+\end{center}
+\end{table}
+
+
+Las clases correspondientes a la evaluaci\'on continua se han situado al final de cada uno de los dos bloques (Física Nuclear y Física de Partículas) aunque dependiendo de las circunstancias particulares de cada grupo se pueden plantear cambios, tales como realizar una prueba de evaluación continua a la mitad de cada bloque y otra tras su finalización. En la propuesta presentada 35 horas corresponden a clases teóricas y 21 a clases de problemas. Esta asignación presenta una cantidad elevada de clases de problemas deliberadamente, ya que en la resolución de los problemas planteados se hará hincapié en conceptos más operacionales que permiten una mejor explicación en el contexto de un caso práctico. Ejemplos serían la asignación de números cuánticos a los distintos estados de un núcleo dentro del modelo de partículas independientes o el cálculo del momento magnético de las partículas dentro del modelo de quarks. Por supuesto, esta asignación debe entenderse como una primera aproximación, que será adaptada según las características del alumnado, la facilidad o dificultad que presenten para asimilar los contenidos de las distintas lecciones y posibles modificaciones del calendario académico debido a las variaciones anuales de los días de fiesta a lo largo de la semana.
+
+
+En las clases teóricas, el profesor expondrá los contenidos de la asignatura, desglosados en la sección \ref{sec:temario}, que cubren los objetivos de aprendizaje específicos de la asignatura, detallados previamente. Estas clases se impartirán buscando una participación activa del alumnado, realizando preguntas al alumnado tanto al inicio de la lección, para invitar a la reflexión (``¿Cómo mediríais el tamaño de un núcleo?''), como preguntas más específicas a lo largo de la lección para garantizar el seguimiento de la misma. De la misma manera, se permitirá al alumnado realizar preguntas a lo largo de la lección para aclarar los puntos que les generen más dificultad. Esta metodología busca incentivar las competencias de \textit{razonamiento crítico, resolución de problemas y creatividad} del alumnado, pero naturalmente deberá equilibrarse con la necesidad de mantener la lección dentro de las restricciones temporales de la clase. Previamente a las clases de resolución de problemas, se proporcionarán al alumnado los boletines de problemas que se analizarán en clase y se les invitará a intentar su resolución previa a la clase para promover su \textit{aprendizaje autónomo y resolución de problemas}. El desarrollo de las clases se adaptará en función del número de alumnos: si el número de alumnos es elevado, el desarrollo de las clases de resolución de problemas será similar al de las clases teóricas, con el profesor resolviendo en la pizarra problemas considerados particularmente didácticos o, bajo petición del alumnado, problemas que les hayan supuesto especial dificultad. Si el número de alumnos es reducido, se optará por sesiones en las que los alumnos expongan en la pizarra su resolución de los problemas propuestos, para desarrollar sus competencias de \textit{comunicación oral, capacidad de síntesis y capacidad de transmitir conocimientos de forma clara en ambientes docentes}. En estas clases, la labor del profesor será ayudar a los alumnos en las dificultades que hayan encontrado y en realizar preguntas que ayuden al \textit{análisis} de los resultados y su desarrollo. En los casos en los que los alumnos no muestren interés en exponer sus resultados, las clases se impartirán como en el supuesto de un número elevado de alumnos.
+
+Como corresponde a una asignatura del último año del Grado en Física, el nivel del temario impartido es elevado, por lo que el seguimiento de la asignatura implica naturalmente el desarrollo de las capacidades de \textit{análisis, síntesis, organización, gestión de la información y resolución de problemas}. Además, el estudio de la fisión y fusión nuclear sirve como un inicio excelente para explorar las \textit{implicaciones medioambientales} de la producción energética con ambos procesos y su comparación con otras fuentes de energía.
+
+En lo que respecta a las competencias específicas de la asignatura, el temario cubre todas ellas. Una posible excepción es la \textit{capacidad de transmitir conocimientos de forma clara}, que se abordará tanto en las clases de problemas, indicadas previamentes, como en los métodos de evaluación, que se indican en una sección posterior. El desarrollo de la \textit{capacidad de medida, interpretación y diseño de experiencias} puede también suponer un desafío para una asignatura preeminentemente teórica, como la presente. Sin embargo, el simple análisis conceptual de las medidas (¿cómo medir un núcleo de un femtómetro de tamaño?, ¿qué es la extrañeza de una partícula, experimentalmente?, ¿por qué es más difícil medir neutrones que protones?) permite al alumno entender y analizar los métodos de medida para la física subatómica.
+
+\section{Reseña bibliográfica}
+A continuación se listan los libros que constituyen la bibliografía recomendada para la asignatura de Física Nuclear y de Partículas. Todos están disponibles para los alumnos en las distintas bibliotecas de la Universidad de Sevilla a través del catálogo FAMA, siendo algunos accesibles de forma online. Se proporciona una bibliografía general y algunos títulos de bibliografía más específica.
+
+\subsubsection*{Bibliografía general}
+
+\begin{enumerate}
+\item Heyde, Kris L. G, \textit{Basic ideas and concepts in nuclear physics: an introductory approach}, Bristol, [England] ; Philadelphia : Institute of Physics Pub., 3rd ed., 2004, ISBN: 9780750309806
+
+\item Pierre Marmier, Eric Sheldon, \textit{Physics of nuclei and particles, Vol I \& II}, Ed. Aca-
+demic Press, 1970, 1982, ISBN: 0-201-05976-2
+
+\item Burcham, W.E., \textit{Nuclear Physics, an introduction}, Ed. Logman, 1982, ISBN: 0-201-05976-2
+
+\item M. A. Preston, R.K. Bhaduri, \textit{Structure of Nuclei}, Reading, Mass. [etc.] : Addison-
+Wesley, 1982, 1982, ISBN: 0-201-05976-2
+
+\item Krane, Kenneth S., \textit{Introductory Nuclear Physics}, Ed. John Wiley and Sons, 2nd
+ed., 1988, ISBN: 0-471-80553-X
+
+\item W. N. Cottingham, D. A. Greenwood, \textit{An introduction to nuclear physics}, Ed. Cam-
+bridge University Press, 2006, ISBN: 978-84-344-0491-5
+
+\item Segrè, Emilio, \textit{Núcleos y partículas: introducción a la física nuclear y subnuclear},
+Ed. Reverté, 2006, ISBN: 978-84-344-0491-5
+
+\item H.A. Enge, \textit{Introduction to Nuclear Physics}, Ed. Reading, Mass. [etc.] : Addison-
+Wesley, 2006, ISBN: 978-84-344-0491-5
+
+\item Ferrer Soria, Antonio, \textit{Física Nuclear y de Partículas}, Ed. Universitat de València,
+D.L., 2006, ISBN: 978-84-344-0491-5
+
+\item B.R. Martin, \textit{Nuclear and Particle Physics}, Ed. John Wiley \& Sons, Ltd., 2006,
+ISBN: 978-84-344-0491-5
+
+\item David J. Griffiths, \textit{Introduction to elementary particles}, Ed. Wiley-Vch, 2008, ISBN:
+978-84-344-0491-5
+
+\item Povh, Rith, Scholz, Zetsche, \textit{Particles and Nuclei. An introduction to the physical
+concepts}, Ed. Springer, 1995, ISBN: 978-84-344-0491-5
+
+\item G.D. Coughlan, J.E. Dodd, B.M. Gripaios, \textit{The ideas of Particle Physics. An in-
+troduction for scientists}, Ed. Cambridge University Press, 2006, ISBN: 978-84-344-
+0491-5
+
+\item D.H. Perkins, \textit{Introduction to high energy physics}, Ed. Cambridge University Press,
+2000, ISBN: 978-84-344-0491-5
+
+\item A. Das, T. Ferbel, \textit{Introduction to Nuclear and Particle Physics}, Ed. John Wiley \&
+Sons, Inc., 1994, ISBN: 978-84-344-0491-5
+
+\item J. Gómez Camacho, \textit{Física de Partículas en 3 créditos, Notas de la asignatura de
+Física Nuclear y Partículas}, Universidad de Sevilla.
+
+\item Donnelly, T. William; Formaggio, Joseph A.; Holstein, Barry R.;Milner, Richard
+Gerard; Surrow, Bernd, \textit{Foundations of nuclear and particle physics}, Ed. Cambridge
+University Press, 2017, ISBN: 1-108-10541-6
+
+\item Halzen, Francis; Martin, Alan Douglas, \textit{Quarks and leptons : an introductory course
+in modern particle physics}, Ed. John Wiley and Sons, 1984, ISBN: 9780471887416
+
+\end{enumerate}
+
+
+
+
+\subsubsection*{Bibliografía específica}
+
+El siguiente libro contiene más de 2100 problemas  resueltos y comentados. Están ordenados según los apartados del libro de los mismos autores recomendado en la bibliografía general. 
+\begin{itemize}
+\item \textit{Problemas de Física}. Autores: S. Burbano, E. Burbano, C. Gracia. Edición: 2006. Editorial: Tébar (Madrid). ISBN: 9788495447272.
+\end{itemize}
+
+\section{Sistema y criterios de evaluación y calificación}
+
+\subsection{Especificaciones del Plan de Estudios}
+
+El Plan de Estudios prevé los siguientes sistemas de evaluación:
+
+\begin{itemize}
+\item Realización de exámenes escritos, consistentes en cuestiones de índole conceptual referentes a la materia tratada en las clases de teoría y de ejercicios de nivel análogo a los desarrollados en las clases de problemas.
+
+\item Realización y entrega de ejercicios
+
+\item Asistencia cotidiana y participación en las sesiones presenciales
+\end{itemize}
+
+
+El examen oficial de la asignatura (examen final) se realizará en las fechas oficiales aprobadas en Junta de Facultad y consitirá en cuestiones teórico-prácticas sobre los contenidos impartidos de la asignatura. Además, la Normativa Reguladora de la Evaluación y la Calificación de las Asignaturas añade que los sitemas de evaluación contemplarán la posibilidad de aprobar por curso una asignatura de manera previa al examen final (evaluación continua). La forma de esta evaluación continua no es fija, y su forma se discutirá en la propuesta de criterios de evaluación.
+
+El sistema de calificaciones ha de seguir lo establecido en el Real Decreto 1125/2003 donde se establecen calificaciones numéricas de 0 a 10 con la posibilidad de una mención de Matrícula de Honor a aquellos con notas superior a 9 sobre 10 sin que el número de menciones
+supere el 5 \% del número de alumnos matriculados con un mínimo de una Matrícula de Honor para clases de menos de 20 alumnos.
+
+\subsection{Propuesta}
+
+De acuerdo a la Normativa Reguladora de la Evaluación y la Clasificación de las Asignaturas, se propondrán al alumnado dos opciones: una evaluación continua basada en dos exámenes parciales y posible entrega de problemas, y una evaluación por examen final. A continuación se detallan ambos sistemas de evaluación, con sus correspondientes criterios, en los que todas las calificaciones se suponen sobre 10:
+
+\begin{itemize}
+\item Evaluación por curso
+\begin{enumerate}[label=\alph*)]
+\item Consistirá en dos exámenes parciales: un parcial para el bloque de física nuclear y un parcial para el bloque de física de partículas. Los alumnos deben aprobar al menos uno de los dos
+parciales (nota mayor o igual a 5) para mantener la posibilidad de la evaluación por curso. Los
+alumnos podrán examinarse del bloque temático no aprobado por parciales en el examen final
+de la primera convocatoria. La nota del bloque temático será, en este caso, la del examen final.
+\item Los alumnos que aprueben el parcial de ambos bloques temáticos podrán presentarse a
+optar a modificar la nota durante el examen final, bien a ambos bloques temáticos, o bien al
+bloque temático con nota más baja. La nota del bloque será la del examen final, si es superior a la del parcial. En caso contrario, se tomará la media de ambas calificaciones, con un mínimo de
+5.0.
+\item El aprobado por curso se obtiene si la media aritmética de ambos bloques temáticos es mayor o igual a 5.0 y la nota de cada bloque es mayor o igual a 4. Si la nota de algún bloque temático es inferior a 4, el aprobado por curso no es posible.
+\item Los profesores podrán proponer durante el curso la realización de actividades de carácter
+voluntario (problemas, trabajos, controles) para fomentar el segimiento continuado de la asignatura. Estas actividades podrán bonificar la nota de los alumnos aprobados por curso una cantidad máxima de 1.5 puntos. La bonificación de cada actividad se aplicará a la nota del
+bloque temático (nuclear o partículas) correspondiente a dicha actividad, saturando en los 10 puntos. Si el número de alumnos es reducido, estos puntos de bonificación se otorgarán en función de una serie de ejercicios que los alumnos entregarán a lo largo del curso. Para un número más elevado de alumnos, se realizarán 4 exámenes tipo test de 15 minutos de duración (dos exámenes por bloque) durante el curso y los puntos de bonificación se aplicarán en función de las calificaciones obtenidas en estos exámenes. 
+\end{enumerate}
+\item Evaluación por examen final
+\begin{enumerate}[label=\alph*)]
+\item La evaluación mediante examen final será aplicable a los alumnos que no hayan obtenido el
+aprobado por curso.
+\item El examen final tendrá contenidos del bloque de Nuclear y del bloque de Partículas, que se
+evaluarán separadamente. El alumno deberá demostrar conocimientos suficientes en ambas
+partes.
+\item Para los alumnos que se presentan a los dos bloques temáticos: Si la nota de ambos bloques
+temáticos es igual o superior a 4 la nota final vendrá dada por su media aritmética. En caso
+contrario (alguna nota inferior a 4), la nota final vendrá dada por su media geométrica. Para
+aprobar, el resultado debe ser mayor o igual a 5.
+\item Para los alumnos que se presentan a un bloque temático, por haber aprobado el otro en el parcial: Deben obtener una nota mínima en el examen de 3. La nota final es la media del parcial aprobado y la del bloque, con un máximo de 4.5 (por ende, suspenso) para los alumnos con menos de 3 en el examen. Para aprobar, el resultado debe ser mayor o igual a 5. 
+\end{enumerate}
+\end{itemize}
+
+\end{document}
+
+
+
+
+
+

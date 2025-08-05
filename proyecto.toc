@@ -1,0 +1,21 @@
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Introducci\'on}{6}{section.1}%
+\contentsline {section}{\numberline {2}Planteamientos Docentes }{8}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Marco normativo e institucional}{8}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Espacio Europeo de la Enseñanza Superior}{8}{subsubsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.2}Las Universidades en España y Andalucía}{11}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Ley Orgánica del Sistema Universitario (LOSU)}{12}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Ley Andaluza de Universidades (LAU)}{13}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.3}La Universidad de Sevilla}{13}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Facultad de Física}{14}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Departamento de Física Atómica, Molecular y Nuclear}{15}{subsubsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.4}Metodología docente}{16}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Evaluación}{21}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Planteamientos investigadores}{23}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Contexto internacional, europeo, nacional y autonómico}{23}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Contexto institucional}{25}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}La Universidad de Sevilla}{25}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Departamento de Física Atómica, Molecular y Nuclear}{25}{subsubsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.3}Propuesta de investigación para el perfil}{26}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Referencias}{30}{section.4}%
