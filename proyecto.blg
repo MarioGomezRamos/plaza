@@ -1,0 +1,117 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: proyecto.aux
+The style file: unsrt2authabbrvpp.bst
+Database file #1: refs_proj.bib
+You're missing a field part---line 20 of file refs_proj.bib
+ :   note = 
+ :          (Última visita 01/08/2025),
+I'm skipping whatever remains of this entry
+You're missing a field part---line 28 of file refs_proj.bib
+ :   note = 
+ :          (Última visita 07/08/2025),
+I'm skipping whatever remains of this entry
+You're missing a field part---line 34 of file refs_proj.bib
+ :   note = 
+ :          (Última visita 07/08/2025),
+I'm skipping whatever remains of this entry
+You're missing a field part---line 40 of file refs_proj.bib
+ :   note = 
+ :          (Última visita 07/08/2025),
+I'm skipping whatever remains of this entry
+You're missing a field part---line 48 of file refs_proj.bib
+ :   note = 
+ :          (Última visita 01/08/2025),
+I'm skipping whatever remains of this entry
+You're missing a field part---line 56 of file refs_proj.bib
+ :   note = 
+ :          (Última visita 01/08/2025),
+I'm skipping whatever remains of this entry
+You're missing a field part---line 64 of file refs_proj.bib
+ :   note = 
+ :          (Última visita 01/08/2025),
+I'm skipping whatever remains of this entry
+You're missing a field part---line 104 of file refs_proj.bib
+ :   note = 
+ :          (Última visita 02/08/2025),
+I'm skipping whatever remains of this entry
+You're missing a field part---line 111 of file refs_proj.bib
+ :   note = 
+ :          (Última visita 02/08/2025),
+I'm skipping whatever remains of this entry
+You're missing a field part---line 118 of file refs_proj.bib
+ :   note = 
+ :          (Última visita 02/08/2025),
+I'm skipping whatever remains of this entry
+You're missing a field part---line 183 of file refs_proj.bib
+ :   note = 
+ :          (Última visita 03/08/2025),
+I'm skipping whatever remains of this entry
+You're missing a field part---line 192 of file refs_proj.bib
+ :   note = 
+ :          (Última visita 03/08/2025),
+I'm skipping whatever remains of this entry
+You're missing a field part---line 202 of file refs_proj.bib
+ :   note = 
+ :          (Última visita 03/08/2025),
+I'm skipping whatever remains of this entry
+You're missing a field part---line 210 of file refs_proj.bib
+ :   note = 
+ :          (Última visita 03/08/2025),
+I'm skipping whatever remains of this entry
+You're missing a field part---line 269 of file refs_proj.bib
+ :   note = 
+ :          (Última visita 06/08/2025)
+I'm skipping whatever remains of this entry
+Repeated entry---line 1193 of file refs_proj.bib
+ : @article{texctransfer
+ :                      ,
+I'm skipping whatever remains of this entry
+A bad cross reference---entry "Angulo11"
+refers to entry "10.4067/S0718-07052011000200017", which doesn't exist
+Warning--I didn't find a database entry for "Wak18"
+Warning--I didn't find a database entry for "target_exc"
+Warning--I didn't find a database entry for "10.4067/S0718-07052011000200017"
+Warning--empty title in Fad60
+You've used 87 entries,
+            1807 wiz_defined-function locations,
+            946 strings with 33397 characters,
+and the built_in function-call counts, 15917 in all, are:
+= -- 1419
+> -- 453
+< -- 0
++ -- 175
+- -- 88
+* -- 1016
+:= -- 2423
+add.period$ -- 249
+call.type$ -- 87
+change.case$ -- 85
+chr.to.int$ -- 0
+cite$ -- 88
+duplicate$ -- 695
+empty$ -- 1836
+format.name$ -- 116
+if$ -- 3641
+int.to.chr$ -- 0
+int.to.str$ -- 87
+missing$ -- 66
+newline$ -- 426
+num.names$ -- 75
+pop$ -- 194
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 342
+stack$ -- 0
+substring$ -- 1172
+swap$ -- 87
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 115
+width$ -- 89
+write$ -- 891
+(There were 17 error messages)

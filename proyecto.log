@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.10.23)  5 AUG 2025 17:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.8.8)  8 AUG 2025 16:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -465,7 +465,7 @@ Now handling font encoding U ...
 Package: babel 2022/01/26 3.70 The Babel package
 \babel@savecnt=\count193
 \U@D=\dimen139
-\l@unhyphenated=\language8
+\l@unhyphenated=\language87
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
@@ -831,29 +831,35 @@ File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count294
 \l__pdf_internal_box=\box54
 )
-No file proyecto.aux.
+(./proyecto.aux
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+LaTeX Info: Redefining \. on input line 26.
+LaTeX Info: Redefining \% on input line 26.
+)
 \openout1 = `proyecto.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Info: Redefining \. on input line 77.
-LaTeX Info: Redefining \% on input line 77.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Info: Redefining \. on input line 78.
+LaTeX Info: Redefining \% on input line 78.
+
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count295
@@ -876,7 +882,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 77.
+Package hyperref Info: Link coloring OFF on input line 78.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -889,9 +895,11 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count301
 )
-LaTeX Info: Redefining \ref on input line 77.
-LaTeX Info: Redefining \pageref on input line 77.
-LaTeX Info: Redefining \nameref on input line 77.
+LaTeX Info: Redefining \ref on input line 78.
+LaTeX Info: Redefining \pageref on input line 78.
+LaTeX Info: Redefining \nameref on input line 78.
+
+(./proyecto.out) (./proyecto.out)
 \@outlinefile=\write3
 \openout3 = `proyecto.out'.
 
@@ -900,8 +908,8 @@ babelbib extension \bibsspanish added to \extrasspanish
 babelbib extension \btxifchangecaseoff added to \extrasspanish
 babelbib: Use citation-dependent languages in bibliography
 babelbib: Set bibliography fall-back language to spanish
-LaTeX Info: Redefining \. on input line 77.
-LaTeX Info: Redefining \% on input line 77.
+LaTeX Info: Redefining \. on input line 78.
+LaTeX Info: Redefining \% on input line 78.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -936,12 +944,12 @@ LaTeX Info: Redefining \% on input line 77.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 88.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 89.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 88.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 89.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -949,22 +957,22 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 93--94
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 117--118
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--120
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--122
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
 
  []
 
@@ -977,7 +985,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 126--129
+Underfull \hbox (badness 10000) in paragraph at lines 127--130
 
  []
 
@@ -989,12 +997,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[4]
+[4] (./proyecto.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+)
 \tf@toc=\write4
 \openout4 = `proyecto.toc'.
 
-LaTeX Info: Redefining \. on input line 132.
-LaTeX Info: Redefining \% on input line 132.
+LaTeX Info: Redefining \. on input line 133.
+LaTeX Info: Redefining \% on input line 133.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1005,19 +1018,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.61858pt}.
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 134--135
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
 
  []
 
 
-Overfull \hbox (4.49344pt too wide) in paragraph at lines 148--149
+Overfull \hbox (4.49344pt too wide) in paragraph at lines 149--150
 []\T1/cmr/m/n/12 Utilizó ex-plí-ci-ta-men-te la pa-la-bra \T1/cmr/m/it/12 uni-v
 er-si-tas\T1/cmr/m/n/12 , de \T1/cmr/m/it/12 ni-ver-sit	as ma-gistr	orum et sch
 ol	arium
  []
-
-
-LaTeX Warning: Citation `ortega_gasset' on page 6 undefined on input line 155.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1029,12 +1039,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [6]
 
-LaTeX Warning: Citation `unesco' on page 7 undefined on input line 163.
-
-
-LaTeX Warning: Citation `Com2009' on page 7 undefined on input line 191.
-
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -1044,12 +1048,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [7]
 
-LaTeX Warning: Citation `magna_charta' on page 8 undefined on input line 212.
-
-
-LaTeX Warning: Citation `bolonia' on page 8 undefined on input line 212.
-
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -1058,11 +1056,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [8]
+LaTeX Info: Redefining \. on input line 231.
+LaTeX Info: Redefining \% on input line 231.
 
-LaTeX Warning: Citation `dec_ects' on page 9 undefined on input line 227.
-
-LaTeX Info: Redefining \. on input line 230.
-LaTeX Info: Redefining \% on input line 230.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1072,14 +1068,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [9]
-
-LaTeX Warning: Citation `dec_master' on page 10 undefined on input line 233.
-
-
 Underfull \vbox (badness 1478) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 246.
-LaTeX Info: Redefining \% on input line 246.
+LaTeX Info: Redefining \. on input line 247.
+LaTeX Info: Redefining \% on input line 247.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1090,8 +1082,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [10]
-LaTeX Info: Redefining \. on input line 268.
-LaTeX Info: Redefining \% on input line 268.
+LaTeX Info: Redefining \. on input line 269.
+LaTeX Info: Redefining \% on input line 269.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1102,14 +1094,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.88261pt}.
 
 [11]
+LaTeX Info: Redefining \. on input line 281.
+LaTeX Info: Redefining \% on input line 281.
 
-LaTeX Warning: Citation `losu' on page 12 undefined on input line 275.
-
-
-LaTeX Warning: Citation `lau' on page 12 undefined on input line 279.
-
-LaTeX Info: Redefining \. on input line 280.
-LaTeX Info: Redefining \% on input line 280.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.88261pt, for example:
@@ -1119,23 +1106,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.88261pt}.
 
 [12]
+LaTeX Info: Redefining \. on input line 291.
+LaTeX Info: Redefining \% on input line 291.
 
-LaTeX Warning: Citation `lupa' on page 13 undefined on input line 281.
-
-
-LaTeX Warning: Citation `cifras' on page 13 undefined on input line 285.
-
-
-LaTeX Warning: Citation `us' on page 13 undefined on input line 285.
-
-
-LaTeX Warning: Citation `us' on page 13 undefined on input line 285.
-
-
-LaTeX Warning: Citation `estatutos' on page 13 undefined on input line 287.
-
-LaTeX Info: Redefining \. on input line 290.
-LaTeX Info: Redefining \% on input line 290.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1145,8 +1118,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [13]
-LaTeX Info: Redefining \. on input line 315.
-LaTeX Info: Redefining \% on input line 315.
+LaTeX Info: Redefining \. on input line 316.
+LaTeX Info: Redefining \% on input line 316.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1157,8 +1130,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [14]
-LaTeX Info: Redefining \. on input line 342.
-LaTeX Info: Redefining \% on input line 342.
+LaTeX Info: Redefining \. on input line 343.
+LaTeX Info: Redefining \% on input line 343.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1169,8 +1142,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [15]
-LaTeX Info: Redefining \. on input line 357.
-LaTeX Info: Redefining \% on input line 357.
+LaTeX Info: Redefining \. on input line 358.
+LaTeX Info: Redefining \% on input line 358.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1181,14 +1154,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.88261pt}.
 
 [16]
-
-LaTeX Warning: Citation `Angulo11' on page 17 undefined on input line 357.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 360.
-LaTeX Info: Redefining \% on input line 360.
+LaTeX Info: Redefining \. on input line 361.
+LaTeX Info: Redefining \% on input line 361.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1199,8 +1168,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.88261pt}.
 
 [17]
-LaTeX Info: Redefining \. on input line 370.
-LaTeX Info: Redefining \% on input line 370.
+LaTeX Info: Redefining \. on input line 371.
+LaTeX Info: Redefining \% on input line 371.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1211,14 +1180,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.88261pt}.
 
 [18]
-
-LaTeX Warning: Citation `tutorias' on page 19 undefined on input line 377.
-
-
 Underfull \vbox (badness 1478) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 378.
-LaTeX Info: Redefining \% on input line 378.
+LaTeX Info: Redefining \. on input line 379.
+LaTeX Info: Redefining \% on input line 379.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1229,8 +1194,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.88261pt}.
 
 [19]
-LaTeX Info: Redefining \. on input line 390.
-LaTeX Info: Redefining \% on input line 390.
+LaTeX Info: Redefining \. on input line 391.
+LaTeX Info: Redefining \% on input line 391.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1241,14 +1206,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.88261pt}.
 
 [20]
+LaTeX Info: Redefining \. on input line 401.
+LaTeX Info: Redefining \% on input line 401.
 
-LaTeX Warning: Citation `ZhaiAI' on page 21 undefined on input line 399.
-
-
-LaTeX Warning: Citation `JUAI' on page 21 undefined on input line 399.
-
-LaTeX Info: Redefining \. on input line 400.
-LaTeX Info: Redefining \% on input line 400.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1260,8 +1220,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [21]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 406.
-LaTeX Info: Redefining \% on input line 406.
+LaTeX Info: Redefining \. on input line 407.
+LaTeX Info: Redefining \% on input line 407.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1273,12 +1233,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [22]
 
-LaTeX Warning: Citation `unesco' on page 23 undefined on input line 413.
-
-
-LaTeX Warning: Citation `horizonte' on page 23 undefined on input line 415.
-
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -1287,20 +1241,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [23]
+LaTeX Info: Redefining \. on input line 449.
+LaTeX Info: Redefining \% on input line 449.
 
-LaTeX Warning: Citation `eecti' on page 24 undefined on input line 428.
-
-
-LaTeX Warning: Citation `peicti' on page 24 undefined on input line 429.
-
-
-LaTeX Warning: Citation `eidia' on page 24 undefined on input line 442.
-
-
-LaTeX Warning: Citation `estatutos' on page 24 undefined on input line 454.
-
-LaTeX Info: Redefining \. on input line 455.
-LaTeX Info: Redefining \% on input line 455.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.88261pt, for example:
@@ -1310,8 +1253,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.88261pt}.
 
 [24]
-LaTeX Info: Redefining \. on input line 476.
-LaTeX Info: Redefining \% on input line 476.
+LaTeX Info: Redefining \. on input line 477.
+LaTeX Info: Redefining \% on input line 477.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1322,30 +1265,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [25]
-Overfull \hbox (23.48079pt too wide) in paragraph at lines 483--484
-[]$[]$ 
- []
+LaTeX Info: Redefining \. on input line 485.
+LaTeX Info: Redefining \% on input line 485.
 
-
-LaTeX Warning: Citation `nupecc' on page 26 undefined on input line 485.
-
-
-LaTeX Warning: Citation `quenching' on page 26 undefined on input line 485.
-
-
-LaTeX Warning: Citation `Tos21' on page 26 undefined on input line 485.
-
-
-LaTeX Warning: Citation `quenching' on page 26 undefined on input line 485.
-
-
-LaTeX Warning: Citation `minos' on page 26 undefined on input line 487.
-
-
-LaTeX Warning: Citation `onokoro' on page 26 undefined on input line 487.
-
-LaTeX Info: Redefining \. on input line 488.
-LaTeX Info: Redefining \% on input line 488.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.88261pt, for example:
@@ -1355,14 +1277,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.88261pt}.
 
 [26]
-
-LaTeX Warning: Citation `onokoro' on page 27 undefined on input line 493.
-
-
-Underfull \vbox (badness 1478) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 498.
-LaTeX Info: Redefining \% on input line 498.
+<EuRI.png, id=283, 1048.91875pt x 810.02625pt>
+File: EuRI.png Graphic file (type png)
+<use EuRI.png>
+Package pdftex.def Info: EuRI.png  used on input line 489.
+(pdftex.def)             Requested size: 273.14923pt x 210.93558pt.
+LaTeX Info: Redefining \. on input line 499.
+LaTeX Info: Redefining \% on input line 499.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1372,21 +1293,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.88261pt}.
 
-[27]
+[27 <./EuRI.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Citation `Tim18' on page 28 undefined on input line 507.
+LaTeX Info: Redefining \. on input line 503.
+LaTeX Info: Redefining \% on input line 503.
 
-
-LaTeX Warning: Citation `Tim19' on page 28 undefined on input line 507.
-
-
-LaTeX Warning: Citation `Fro23' on page 28 undefined on input line 507.
-
-
-LaTeX Warning: Citation `nupecc' on page 28 undefined on input line 507.
-
-LaTeX Info: Redefining \. on input line 508.
-LaTeX Info: Redefining \% on input line 508.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.88261pt, for example:
@@ -1396,28 +1308,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.88261pt}.
 
 [28]
+<kay22.png, id=323, 501.875pt x 451.6875pt>
+File: kay22.png Graphic file (type png)
+<use kay22.png>
+Package pdftex.def Info: kay22.png  used on input line 508.
+(pdftex.def)             Requested size: 273.14923pt x 245.84431pt.
 
-LaTeX Warning: Citation `neb' on page 29 undefined on input line 509.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-LaTeX Warning: Citation `iav' on page 29 undefined on input line 509.
-
-
-Overfull \hbox (41.10252pt too wide) in paragraph at lines 511--512
-[]$[]$ 
- []
-
-
-LaTeX Warning: Citation `thox' on page 29 undefined on input line 515.
-
-
-LaTeX Warning: Citation `target_exc' on page 29 undefined on input line 515.
-
-
-Underfull \vbox (badness 1478) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 516.
-LaTeX Info: Redefining \% on input line 516.
+LaTeX Info: Redefining \. on input line 515.
+LaTeX Info: Redefining \% on input line 515.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1428,92 +1328,160 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.88261pt}.
 
 [29]
+Underfull \vbox (badness 1331) has occurred while \output is active []
 
-LaTeX Warning: Citation `complex_cdcc' on page 30 undefined on input line 517.
-
-
-LaTeX Warning: Citation `eurolabs' on page 30 undefined on input line 519.
-
-
-LaTeX Warning: Citation `Workshop_Trento_25' on page 30 undefined on input line
- 519.
-
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 5
-29.
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
-Underfull \hbox (badness 1152) in paragraph at lines 528--530
-[]\T1/cmr/m/n/12 UNESCO: \T1/cmr/m/it/12 De-cla-ra-ción mun-dial so-bre la edu-
-ca-ción su-pe-rior en el si-glo XXI\T1/cmr/m/n/12 ,
- []
+LaTeX Info: Redefining \. on input line 517.
+LaTeX Info: Redefining \% on input line 517.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                Make it at least 14.88261pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.88261pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+(fancyhdr)                \addtolength{\topmargin}{-2.88261pt}.
 
-[30]
-Underfull \hbox (badness 2744) in paragraph at lines 531--532
-[]\T1/cmr/m/it/12 Comunicado de la Con-fe-ren-cia de Mi-nis-tros de Edu-ca-ción
- Eu-ro-peos\T1/cmr/m/n/12 , 2009.
+[30 <./kay22.png (PNG copy)>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 519.
+LaTeX Info: Redefining \% on input line 519.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.88261pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.88261pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.88261pt}.
+
+[31]
+
+LaTeX Warning: Citation `Wak18' on page 32 undefined on input line 526.
+
+
+Underfull \vbox (badness 1478) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 527.
+LaTeX Info: Redefining \% on input line 527.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.88261pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.88261pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.88261pt}.
+
+[32]
+Underfull \vbox (badness 3514) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 533.
+LaTeX Info: Redefining \% on input line 533.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.88261pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.88261pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.88261pt}.
+
+[33]
+
+LaTeX Warning: Citation `target_exc' on page 34 undefined on input line 536.
+
+
+Underfull \vbox (badness 3514) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 542.
+LaTeX Info: Redefining \% on input line 542.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.88261pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.88261pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.88261pt}.
+
+[34]
+Overfull \hbox (23.48079pt too wide) in paragraph at lines 545--546
+[]$[]$ 
+ []
+
+LaTeX Info: Redefining \. on input line 552.
+LaTeX Info: Redefining \% on input line 552.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.88261pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.88261pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.88261pt}.
+
+[35]
+LaTeX Info: Redefining \. on input line 562.
+LaTeX Info: Redefining \% on input line 562.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.88261pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.88261pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.88261pt}.
+
+[36]
+Overfull \hbox (41.10252pt too wide) in paragraph at lines 573--574
+[]$[]$ 
+ []
+
+LaTeX Info: Redefining \. on input line 575.
+LaTeX Info: Redefining \% on input line 575.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.88261pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.88261pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.88261pt}.
+
+[37]
+Underfull \vbox (badness 3514) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 580.
+LaTeX Info: Redefining \% on input line 580.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.88261pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.88261pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.88261pt}.
+
+[38] (./proyecto.bbl
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
+0.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+Underfull \hbox (badness 3668) in paragraph at lines 13--16
+[]\T1/cmr/m/n/12 Comunicado de la con-fe-ren-cia de mi-nis-tros de edu-ca-ción 
+eu-ro-peos, 2009.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 531--532
+Underfull \hbox (badness 10000) in paragraph at lines 13--16
 []$\T1/cmtt/m/n/12 https : / / www . unibasq . eus / wp-[]content / uploads / 2
 017 / 10 / 12 . Comunicado _
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 533--534
-[]\T1/cmr/m/it/12 Magna Char-ta Uni-ver-si-ta-tum\T1/cmr/m/n/12 , 1988. []$\T1/
-cmtt/m/n/12 https : / / www . magna-[]charta . org /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 535--536
-\T1/cmtt/m/n/12 Ministerial _ conferences / 06 / 0 / 1999 _ Bologna _ Declarati
-on _ Spanish _ 553060 .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 545--546
-[]\T1/cmr/m/it/12 Anteproyecto de Ley de Uni-ver-si-da-des pa-ra An-da-lu-cía\T
-1/cmr/m/n/12 , []$\T1/cmtt/m/n/12 https : / / www .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 545--546
-\T1/cmtt/m/n/12 juntadeandalucia . es / servicios / participacion / todos-[]doc
-umentos / detalle /
- []
-
-
-Underfull \hbox (badness 6204) in paragraph at lines 547--548
-[]\T1/cmr/m/it/12 Las ci-fras de la edu-ca-ción en Es-pa-ña. Cur-so 2022-2023\T
-1/cmr/m/n/12 , Mi-nis-te-rio de
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 547--548
-\T1/cmr/m/n/12 Edu-ca-ción, For-ma-ción Pro-fe-sio-nal y De-por-tes (2025), []$
-\T1/cmtt/m/n/12 https : / / www .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 547--548
-\T1/cmtt/m/n/12 educacionfpydeportes . gob . es / servicios-[]al-[]ciudadano / 
-estadisticas /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 547--548
-\T1/cmtt/m/n/12 indicadores / cifras-[]educacion-[]espana / 2022-[]2023 . html$
-[] \T1/cmr/m/n/12 (Úl-ti-ma vi-si-ta,
+Underfull \hbox (badness 10000) in paragraph at lines 18--21
+[]\T1/cmr/m/n/12 Magna char-ta uni-ver-si-ta-tum, 1988.  []$\T1/cmtt/m/n/12 htt
+ps : / / www . magna-[]charta . org /
  []
 
 
@@ -1524,56 +1492,76 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[31]
-Underfull \hbox (badness 4303) in paragraph at lines 562--563
-[]\T1/cmr/m/n/12 Comisión Eu-ro-pea, \T1/cmr/m/it/12 Ho-ri-zon-te Eu-ro-pa - In
--ver-tir pa-ra dar for-ma a nues-
+[39]
+Underfull \hbox (badness 10000) in paragraph at lines 53--56
+[]\T1/cmr/m/n/12 Anteproyecto de ley de uni-ver-si-da-des pa-ra an-da-lu-cía.  
+[]$\T1/cmtt/m/n/12 https : / / www .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 562--563
-\T1/cmr/m/it/12 tro fu-tu-ro\T1/cmr/m/n/12 , []$\T1/cmtt/m/n/12 https : / / res
-earch-[]and-[]innovation . ec . europa . eu / document /
+Underfull \hbox (badness 10000) in paragraph at lines 53--56
+\T1/cmtt/m/n/12 juntadeandalucia . es / servicios / participacion / todos-[]doc
+umentos / detalle /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 565--566
-[]\T1/cmr/m/it/12 Estrategia Es-pa-ño-la de Cien-cia, Tec-no-lo-gía e In-no-va-
-ción 2021-
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[40]
+Underfull \hbox (badness 2689) in paragraph at lines 97--101
+[]\T1/cmr/m/n/12 C. Eu-ro-pea.  Ho-ri-zon-te eu-ro-pa - in-ver-tir pa-ra dar fo
+r-ma a nues-tro fu-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 565--566
-\T1/cmr/m/it/12 2027. []$\T1/cmtt/m/n/12 https : / / www . ciencia . gob . es /
+Underfull \hbox (badness 10000) in paragraph at lines 97--101
+\T1/cmr/m/n/12 tu-ro.  []$\T1/cmtt/m/n/12 https : / / research-[]and-[]innovati
+on . ec . europa . eu / document /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--112
+[]\T1/cmr/m/n/12 Estrategia es-pa-ño-la de cien-cia, tec-no-lo-gía e in-no-va-c
+ión 2021-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--112
+\T1/cmr/m/n/12 2027.  []$\T1/cmtt/m/n/12 https : / / www . ciencia . gob . es /
  InfoGeneralPortal / documento /
  []
 
 
-Underfull \hbox (badness 4291) in paragraph at lines 568--569
-[]\T1/cmr/m/it/12 Plan Es-ta-tal de In-ves-ti-ga-ción Cien-tí-fi-ca, Téc-ni-ca 
-y de In-no-va-ción (2024-
+Underfull \hbox (badness 6859) in paragraph at lines 114--118
+[]\T1/cmr/m/n/12 Plan es-ta-tal de in-ves-ti-ga-ción cien-tí-fi-ca, téc-ni-ca y
+ de in-no-va-ción (2024-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 568--569
-\T1/cmr/m/it/12 2027) []$\T1/cmtt/m/n/12 https : / / www . ciencia . gob . es /
- InfoGeneralPortal / documento /
+Underfull \hbox (badness 10000) in paragraph at lines 114--118
+\T1/cmr/m/n/12 2027).  []$\T1/cmtt/m/n/12 https : / / www . ciencia . gob . es 
+/ InfoGeneralPortal / documento /
  []
 
 
-Underfull \hbox (badness 1776) in paragraph at lines 570--571
-[]\T1/cmr/m/it/12 Estrategia de I+D+I de An-da-lu-cía (EI-DIA), Ho-ri-zon-te 20
-27\T1/cmr/m/n/12 , []$\T1/cmtt/m/n/12 https : / / www .
+Underfull \hbox (badness 2556) in paragraph at lines 120--123
+[]\T1/cmr/m/n/12 Estrategia de i+d+i de an-da-lu-cía (ei-dia), ho-ri-zon-te 202
+7.  []$\T1/cmtt/m/n/12 https : / / www .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 570--571
+Underfull \hbox (badness 10000) in paragraph at lines 120--123
 \T1/cmtt/m/n/12 juntadeandalucia . es / organismos / universidadinvestigacionei
 nnovacion /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 570--571
+Underfull \hbox (badness 10000) in paragraph at lines 120--123
 \T1/cmtt/m/n/12 consejeria / transparencia / planificacion-[]evaluacion-[]estad
 istica / planes /
  []
@@ -1586,7 +1574,79 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[32] (./proyecto.aux
+[41]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[42]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[43]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[44]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[45]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[46]
+Underfull \hbox (badness 10000) in paragraph at lines 492--496
+[]\T1/cmr/m/n/12 Theory ser-vi-ce for the low energy nu-clear phy-sics com-mu-n
+ity:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 492--496
+\T1/cmr/m/n/12 a hands-on workshop.  []$\T1/cmtt/m/n/12 https : / / www . ectst
+ar . eu / workshops /
+ []
+
+
+Overfull \hbox (72.04659pt too wide) in paragraph at lines 492--496
+\T1/cmtt/m/n/12 theory-[]service-[]for-[]the-[]low-[]energy-[]nuclear-[]physics
+-[]community-[]a-[]hands-[]on-[]workshop/$[]\T1/cmr/m/n/12 . 
+ []
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[47] (./proyecto.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 LaTeX Info: Redefining \. on input line 26.
@@ -1595,50 +1655,39 @@ LaTeX Info: Redefining \% on input line 26.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `proyecto.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `proyecto.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  B98BEBDB06E04B3C1A38AE07FFC6CF9E;4242.
+Package rerunfilecheck Info: File `proyecto.out' has not changed.
+(rerunfilecheck)             Checksum: F5EDFE2A7F0FFF8E4055F6C65B738C70;4469.
  )
 (\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 73 (\begingroup)
+### semi simple group (level 1) entered at line 74 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 12850 strings out of 480144
- 200513 string characters out of 5893197
- 512769 words of memory out of 5000000
- 30518 multiletter control sequences out of 15000+600000
- 486912 words of font info for 74 fonts, out of 8000000 for 9000
- 62 hyphenation exceptions out of 8191
- 70i,15n,76p,2332b,2172s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/mario/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/e
-c/ectt1200.600pk> </home/mario/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/
-ec/tcrm0800.600pk> </home/mario/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen
-/ec/ecbx1440.600pk> </home/mario/.texlive2021/texmf-var/fonts/pk/ljfour/jknappe
-n/ec/tcrm1200.600pk> </home/mario/.texlive2021/texmf-var/fonts/pk/ljfour/jknapp
-en/ec/ecbx1200.600pk> </home/mario/.texlive2021/texmf-var/fonts/pk/ljfour/jknap
-pen/ec/ecti1200.600pk> </home/mario/.texlive2021/texmf-var/fonts/pk/ljfour/jkna
-ppen/ec/ecbx1728.600pk> </home/mario/.texlive2021/texmf-var/fonts/pk/ljfour/jkn
-appen/ec/ecrm1200.600pk> </home/mario/.texlive2021/texmf-var/fonts/pk/ljfour/jk
-nappen/ec/ecrm1440.600pk> </home/mario/.texlive2021/texmf-var/fonts/pk/ljfour/j
-knappen/ec/ecbx2074.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
-2.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on proyecto.pdf (32 pages, 232784 bytes).
+ 13081 strings out of 478287
+ 202988 string characters out of 5849290
+ 521356 words of memory out of 5000000
+ 30883 multiletter control sequences out of 15000+600000
+ 488794 words of font info for 81 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 70i,15n,76p,2651b,2171s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/us
+r/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr
+/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/t
+ype1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super
+/sfbx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/
+share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/ty
+pe1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/
+sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on proyecto.pdf (47 pages, 1063786 bytes).
 PDF statistics:
- 670 PDF objects out of 1000 (max. 8388607)
- 260 compressed objects within 3 object streams
- 80 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 676 PDF objects out of 1000 (max. 8388607)
+ 585 compressed objects within 6 object streams
+ 164 named destinations out of 1000 (max. 500000)
+ 171 words of extra memory for PDF output out of 10000 (max. 10000000)
 
