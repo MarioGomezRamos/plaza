@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.8.8)  1 SEP 2025 13:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.8.8)  1 SEP 2025 16:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1107,7 +1107,7 @@ e pdfs with page group included in a single page
 <model.pdf, id=917, 335.47102pt x 254.4193pt>
 File: model.pdf Graphic file (type pdf)
 <use model.pdf>
-Package pdftex.def Info: model.pdf  used on input line 315.
+Package pdftex.def Info: model.pdf  used on input line 314.
 (pdftex.def)             Requested size: 164.43343pt x 124.7067pt.
  [18
 
@@ -1119,7 +1119,7 @@ Package pdftex.def Info: model.pdf  used on input line 315.
 <eurolabs.jpg, id=1005, 423.984pt x 207.8967pt>
 File: eurolabs.jpg Graphic file (type jpg)
 <use eurolabs.jpg>
-Package pdftex.def Info: eurolabs.jpg  used on input line 375.
+Package pdftex.def Info: eurolabs.jpg  used on input line 374.
 (pdftex.def)             Requested size: 101.72588pt x 49.88191pt.
  [21
 
@@ -1188,7 +1188,7 @@ re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf/font
 s/type1/public/cm-super/sfss1095.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /urw/zapfding/uzdr.pfb>
-Output written on presentacion.pdf (31 pages, 18373600 bytes).
+Output written on presentacion.pdf (31 pages, 18373547 bytes).
 PDF statistics:
  1431 PDF objects out of 1440 (max. 8388607)
  1249 compressed objects within 13 object streams
