@@ -69,13 +69,11 @@ Repeated entry---line 1193 of file refs_proj.bib
 I'm skipping whatever remains of this entry
 A bad cross reference---entry "Angulo11"
 refers to entry "10.4067/S0718-07052011000200017", which doesn't exist
-Warning--I didn't find a database entry for "Wak18"
-Warning--I didn't find a database entry for "target_exc"
 Warning--I didn't find a database entry for "10.4067/S0718-07052011000200017"
 Warning--empty title in Fad60
 You've used 87 entries,
             1807 wiz_defined-function locations,
-            946 strings with 33397 characters,
+            943 strings with 33377 characters,
 and the built_in function-call counts, 15917 in all, are:
 = -- 1419
 > -- 453
