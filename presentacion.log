@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.8.8)  4 SEP 2025 19:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.8.8)  4 SEP 2025 19:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -968,102 +968,114 @@ Package pdftex.def Info: cannon.png  used on input line 123.
 <Tostevin.png, id=390, 501.875pt x 364.36125pt>
 File: Tostevin.png Graphic file (type png)
 <use Tostevin.png>
-Package pdftex.def Info: Tostevin.png  used on input line 145.
+Package pdftex.def Info: Tostevin.png  used on input line 146.
 (pdftex.def)             Requested size: 137.41489pt x 99.76382pt.
-<subedi.jpeg, id=391, 1251.67625pt x 1284.8pt>
+<stripping.pdf, id=391, 560.51338pt x 232.36754pt>
+File: stripping.pdf Graphic file (type pdf)
+<use stripping.pdf>
+Package pdftex.def Info: stripping.pdf  used on input line 146.
+(pdftex.def)             Requested size: 154.03474pt x 63.85693pt.
+<subedi.jpeg, id=392, 1251.67625pt x 1284.8pt>
 File: subedi.jpeg Graphic file (type jpg)
 <use subedi.jpeg>
-Package pdftex.def Info: subedi.jpeg  used on input line 145.
+Package pdftex.def Info: subedi.jpeg  used on input line 146.
 (pdftex.def)             Requested size: 97.1758pt x 99.76382pt.
 
 [10
 
- <./Tostevin.png (PNG copy)> <./subedi.jpeg>]
+ <./Tostevin.png (PNG copy)> <./stripping.pdf> <./subedi.jpeg>]
 File: Tostevin.png Graphic file (type png)
 <use Tostevin.png>
-Package pdftex.def Info: Tostevin.png  used on input line 167.
+Package pdftex.def Info: Tostevin.png  used on input line 171.
 (pdftex.def)             Requested size: 137.41489pt x 99.76382pt.
-<flavigny.png, id=422, 472.76625pt x 501.875pt>
+File: stripping.pdf Graphic file (type pdf)
+<use stripping.pdf>
+Package pdftex.def Info: stripping.pdf  used on input line 171.
+(pdftex.def)             Requested size: 154.03474pt x 63.85693pt.
+<flavigny.png, id=592, 472.76625pt x 501.875pt>
 File: flavigny.png Graphic file (type png)
 <use flavigny.png>
-Package pdftex.def Info: flavigny.png  used on input line 167.
+Package pdftex.def Info: flavigny.png  used on input line 171.
 (pdftex.def)             Requested size: 93.97446pt x 99.76382pt.
+<transfer.pdf, id=593, 419.60828pt x 198.41891pt>
+File: transfer.pdf Graphic file (type pdf)
+<use transfer.pdf>
+Package pdftex.def Info: transfer.pdf  used on input line 171.
+(pdftex.def)             Requested size: 154.0361pt x 72.8386pt.
  [11
 
- <./flavigny.png>]
+ <./flavigny.png> <./transfer.pdf>]
 File: Tostevin.png Graphic file (type png)
 <use Tostevin.png>
-Package pdftex.def Info: Tostevin.png  used on input line 199.
+Package pdftex.def Info: Tostevin.png  used on input line 205.
 (pdftex.def)             Requested size: 103.06117pt x 74.82477pt.
 File: flavigny.png Graphic file (type png)
 <use flavigny.png>
-Package pdftex.def Info: flavigny.png  used on input line 199.
+Package pdftex.def Info: flavigny.png  used on input line 205.
 (pdftex.def)             Requested size: 70.47903pt x 74.82477pt.
-<atar.png, id=452, 501.875pt x 337.26pt>
+File: portada.png Graphic file (type png)
+<use portada.png>
+Package pdftex.def Info: portada.png  used on input line 205.
+(pdftex.def)             Requested size: 117.28859pt x 74.82477pt.
+<atar.png, id=718, 501.875pt x 337.26pt>
 File: atar.png Graphic file (type png)
 <use atar.png>
-Package pdftex.def Info: atar.png  used on input line 199.
+Package pdftex.def Info: atar.png  used on input line 205.
 (pdftex.def)             Requested size: 111.33945pt x 74.82477pt.
  [12
 
  <./atar.png (PNG copy)>]
-<fair.jpg, id=483, 401.5pt x 401.5pt>
+<fair.jpg, id=750, 401.5pt x 401.5pt>
 File: fair.jpg Graphic file (type jpg)
 <use fair.jpg>
-Package pdftex.def Info: fair.jpg  used on input line 231.
+Package pdftex.def Info: fair.jpg  used on input line 237.
 (pdftex.def)             Requested size: 74.82158pt x 74.82477pt.
-<frib.jpg, id=484, 401.5pt x 401.5pt>
+<frib.jpg, id=751, 401.5pt x 401.5pt>
 File: frib.jpg Graphic file (type jpg)
 <use frib.jpg>
-Package pdftex.def Info: frib.jpg  used on input line 231.
+Package pdftex.def Info: frib.jpg  used on input line 237.
 (pdftex.def)             Requested size: 74.82158pt x 74.82477pt.
-<riken.png, id=485, 602.25pt x 160.6pt>
+<riken.png, id=752, 602.25pt x 160.6pt>
 File: riken.png Graphic file (type png)
 <use riken.png>
-Package pdftex.def Info: riken.png  used on input line 231.
+Package pdftex.def Info: riken.png  used on input line 237.
 (pdftex.def)             Requested size: 140.28816pt x 37.41017pt.
-<onokoro.png, id=486, 449.68pt x 112.42pt>
+<onokoro.png, id=753, 449.68pt x 112.42pt>
 File: onokoro.png Graphic file (type png)
 <use onokoro.png>
-Package pdftex.def Info: onokoro.png  used on input line 231.
+Package pdftex.def Info: onokoro.png  used on input line 237.
 (pdftex.def)             Requested size: 149.64366pt x 37.4109pt.
-<EuRI.png, id=487, 1048.91875pt x 810.02625pt>
+<EuRI.png, id=754, 1048.91875pt x 810.02625pt>
 File: EuRI.png Graphic file (type png)
 <use EuRI.png>
-Package pdftex.def Info: EuRI.png  used on input line 231.
+Package pdftex.def Info: EuRI.png  used on input line 237.
 (pdftex.def)             Requested size: 96.87941pt x 74.82477pt.
  [13
 
  <./fair.jpg> <./frib.jpg> <./riken.png> <./onokoro.png> <./EuRI.png>]
-<stripping.pdf, id=521, 560.51338pt x 232.36754pt>
 File: stripping.pdf Graphic file (type pdf)
 <use stripping.pdf>
-Package pdftex.def Info: stripping.pdf  used on input line 289.
+Package pdftex.def Info: stripping.pdf  used on input line 295.
 (pdftex.def)             Requested size: 154.03474pt x 63.85693pt.
-<transfer.pdf, id=522, 419.60828pt x 198.41891pt>
 File: transfer.pdf Graphic file (type pdf)
 <use transfer.pdf>
-Package pdftex.def Info: transfer.pdf  used on input line 289.
+Package pdftex.def Info: transfer.pdf  used on input line 295.
 (pdftex.def)             Requested size: 154.0361pt x 72.8386pt.
 File: portada.png Graphic file (type png)
 <use portada.png>
-Package pdftex.def Info: portada.png  used on input line 289.
+Package pdftex.def Info: portada.png  used on input line 295.
 (pdftex.def)             Requested size: 117.28859pt x 74.82477pt.
  [14
 
- <./stripping.pdf> <./transfer.pdf
-
-pdfTeX warning: /usr/bin/pdflatex (file ./transfer.pdf): PDF inclusion: multipl
-e pdfs with page group included in a single page
->]
-Underfull \hbox (badness 10000) in paragraph at lines 337--337
+]
+Underfull \hbox (badness 10000) in paragraph at lines 343--343
 []\U/pzd/m/n/10.95 Ô \OT1/cmss/m/n/6 L1: $[]$
  []
 
 <quenching.jpg, id=818, 247.45248pt x 176.48334pt>
 File: quenching.jpg Graphic file (type jpg)
 <use quenching.jpg>
-Package pdftex.def Info: quenching.jpg  used on input line 337.
+Package pdftex.def Info: quenching.jpg  used on input line 343.
 (pdftex.def)             Requested size: 104.91481pt x 74.82477pt.
 [15
 
@@ -1073,18 +1085,18 @@ Package pdftex.def Info: quenching.jpg  used on input line 337.
 <model.pdf, id=879, 335.47102pt x 254.4193pt>
 File: model.pdf Graphic file (type pdf)
 <use model.pdf>
-Package pdftex.def Info: model.pdf  used on input line 369.
+Package pdftex.def Info: model.pdf  used on input line 375.
 (pdftex.def)             Requested size: 164.43343pt x 124.7067pt.
  [17
 
  <./model.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 410--410
+Underfull \hbox (badness 10000) in paragraph at lines 416--416
 []\U/pzd/m/n/10.95 Ô \OT1/cmss/m/n/6 L2: $[]$
  []
 
 File: model.pdf Graphic file (type pdf)
 <use model.pdf>
-Package pdftex.def Info: model.pdf  used on input line 410.
+Package pdftex.def Info: model.pdf  used on input line 416.
 (pdftex.def)             Requested size: 98.66107pt x 74.82477pt.
 [18
 
@@ -1094,28 +1106,28 @@ Package pdftex.def Info: model.pdf  used on input line 410.
 <TExc.png, id=968, 544.0325pt x 547.04375pt>
 File: TExc.png Graphic file (type png)
 <use TExc.png>
-Package pdftex.def Info: TExc.png  used on input line 437.
+Package pdftex.def Info: TExc.png  used on input line 443.
 (pdftex.def)             Requested size: 74.41246pt x 74.82434pt.
  [20
 
  <./TExc.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 478--478
 []\U/pzd/m/n/6 Ô \OT1/cmss/m/n/6 L3: $[]$
  []
 
 File: TExc.png Graphic file (type png)
 <use TExc.png>
-Package pdftex.def Info: TExc.png  used on input line 472.
+Package pdftex.def Info: TExc.png  used on input line 478.
 (pdftex.def)             Requested size: 74.41246pt x 74.82434pt.
 [21
 
 ] [22
 
 ]
-<eurolabs.jpg, id=1054, 423.984pt x 207.8967pt>
+<eurolabs.jpg, id=1053, 423.984pt x 207.8967pt>
 File: eurolabs.jpg Graphic file (type jpg)
 <use eurolabs.jpg>
-Package pdftex.def Info: eurolabs.jpg  used on input line 517.
+Package pdftex.def Info: eurolabs.jpg  used on input line 523.
 (pdftex.def)             Requested size: 101.72588pt x 49.88191pt.
  [23
 
@@ -1126,25 +1138,25 @@ Package pdftex.def Info: eurolabs.jpg  used on input line 517.
 ] [26
 
 ]
-<test1.png, id=1183, 1311.90125pt x 291.0875pt>
+<test1.png, id=1181, 1311.90125pt x 291.0875pt>
 File: test1.png Graphic file (type png)
 <use test1.png>
-Package pdftex.def Info: test1.png  used on input line 571.
+Package pdftex.def Info: test1.png  used on input line 577.
 (pdftex.def)             Requested size: 239.60567pt x 53.16188pt.
-<test2.png, id=1184, 1469.49pt x 123.46124pt>
+<test2.png, id=1182, 1469.49pt x 123.46124pt>
 File: test2.png Graphic file (type png)
 <use test2.png>
-Package pdftex.def Info: test2.png  used on input line 571.
+Package pdftex.def Info: test2.png  used on input line 577.
 (pdftex.def)             Requested size: 273.83728pt x 23.00574pt.
-<test3.png, id=1185, 1420.30624pt x 421.575pt>
+<test3.png, id=1183, 1420.30624pt x 421.575pt>
 File: test3.png Graphic file (type png)
 <use test3.png>
-Package pdftex.def Info: test3.png  used on input line 571.
+Package pdftex.def Info: test3.png  used on input line 577.
 (pdftex.def)             Requested size: 239.60567pt x 71.11359pt.
-<test4.png, id=1186, 1291.82625pt x 296.10625pt>
+<test4.png, id=1184, 1291.82625pt x 296.10625pt>
 File: test4.png Graphic file (type png)
 <use test4.png>
-Package pdftex.def Info: test4.png  used on input line 571.
+Package pdftex.def Info: test4.png  used on input line 577.
 (pdftex.def)             Requested size: 273.83728pt x 62.76698pt.
  [27
 
@@ -1180,56 +1192,38 @@ LaTeX Info: Redefining \% on input line 1.
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
-
-Package rerunfilecheck Warning: File `presentacion.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `presentacion.out':
-(rerunfilecheck)             Before: 673FDDC7D7E448B86DE7718CE8412DAF;1396
-(rerunfilecheck)             After:  15CA33F465541D5B63D30924DE868547;1396.
+Package rerunfilecheck Info: File `presentacion.out' has not changed.
+(rerunfilecheck)             Checksum: 15CA33F465541D5B63D30924DE868547;1396.
  ) 
 Here is how much of TeX's memory you used:
- 23662 strings out of 478287
- 459463 string characters out of 5849290
+ 23656 strings out of 478287
+ 459390 string characters out of 5849290
  720389 words of memory out of 5000000
- 41257 multiletter control sequences out of 15000+600000
+ 41255 multiletter control sequences out of 15000+600000
  485946 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,16n,122p,392b,911s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Navigation35} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.3.2.34} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.3.1.30} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.2.2.25} has been referenced but does not e
-xist, replaced by a fixed one
-
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf/fonts/type1/
-public/cm-super/sfss1095.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/zap
-fding/uzdr.pfb>
-Output written on presentacion.pdf (34 pages, 10910858 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx
+10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf/fonts/type
+1/public/cm-super/sfss1095.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/z
+apfding/uzdr.pfb>
+Output written on presentacion.pdf (34 pages, 10911441 bytes).
 PDF statistics:
- 1524 PDF objects out of 1728 (max. 8388607)
- 1339 compressed objects within 14 object streams
- 83 named destinations out of 1000 (max. 500000)
+ 1520 PDF objects out of 1728 (max. 8388607)
+ 1336 compressed objects within 14 object streams
+ 79 named destinations out of 1000 (max. 500000)
  372 words of extra memory for PDF output out of 10000 (max. 10000000)
 
