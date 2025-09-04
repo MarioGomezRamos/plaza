@@ -5,7 +5,7 @@
 \beamer@subsectionintoc {1}{3}{Investigación}{6}{0}{1}
 \beamer@sectionintoc {2}{Proyecto}{7}{0}{2}
 \beamer@subsectionintoc {2}{1}{Planteamientos investigadores}{8}{0}{2}
-\beamer@subsectionintoc {2}{2}{Planteamientos docentes}{25}{0}{2}
+\beamer@subsectionintoc {2}{2}{Planteamientos docentes}{24}{0}{2}
 \beamer@sectionintoc {3}{Programa: Física Nuclear y de Partículas}{28}{0}{3}
 \beamer@subsectionintoc {3}{1}{Temario}{29}{0}{3}
 \beamer@subsectionintoc {3}{2}{Bibliografía}{33}{0}{3}
